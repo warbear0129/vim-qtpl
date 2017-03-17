@@ -13,3 +13,7 @@ See https://github.com/valyala/quicktemplate/
 
         cd ~/.vim/bundle && git clone github.com/warbear0129/vim-qtpl
 
+* Use Vundle
+
+1. Add `Plugin 'codelitt/vim-qtpl'` to your [Vundle](https://github.com/VundleVim/Vundle.vim) packages 
+2. Run `:BundleInstall`
