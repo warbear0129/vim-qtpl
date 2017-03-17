@@ -11,7 +11,7 @@ See https://github.com/valyala/quicktemplate/
 
 * Using pathogen:
 
-        cd ~/.vim/bundle && git clone github.com/warbear0129/vim-qtpl
+        cd ~/.vim/bundle && git clone github.com/codelitt/vim-qtpl
 
 * Use Vundle
 
