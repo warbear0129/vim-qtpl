@@ -9,7 +9,11 @@ See https://github.com/valyala/quicktemplate/
 
 #### Install
 
-* Using pathogen:
+##### Using pathogen:
 
-        cd ~/.vim/bundle && git clone github.com/warbear0129/vim-qtpl
+        cd ~/.vim/bundle && git clone github.com/codelitt/vim-qtpl
 
+##### Using Vundle
+
+1. Add `Plugin 'codelitt/vim-qtpl'` to your [Vundle](https://github.com/VundleVim/Vundle.vim) packages 
+2. Run `:BundleInstall`
